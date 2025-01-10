@@ -13,7 +13,7 @@
 5.   基于`insightface`实现的人脸识别和人脸追踪
 6.   基于`dlib`和`face_recognition`实现的人脸识别
 
-### 使用要点
+## 使用要点
 
 1.   使用`jupyter`运行.ipynb文件
 2.   人脸识别部分需要添加人脸数据，首次使用需添加`known_people`文件夹，并放入人像图片
