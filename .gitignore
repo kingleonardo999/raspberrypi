@@ -1,0 +1,5 @@
+*.png
+*jpg
+.idea
+face_features
+known_people
